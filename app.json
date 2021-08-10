@@ -63,12 +63,12 @@
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "✰Sᴀͥʀᴀͣᴛͫʜ™️✰"
+         "value": "Deepak"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1118936839"
+         "value": "1664745350"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -85,7 +85,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/511ad504656e712b88235.jpg"    
+         "value": "https://telegra.ph/file/51f6431dd1530bd7e90c0.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -108,12 +108,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1118936839"
+         "value": "1664745350"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1118936839"
+         "value": "1664745350"
       },
      
       "TOKEN": {
@@ -134,7 +134,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1118936839"
+         "value": "1664745350"
       },
       "WALL_API":{
          "description": "Enter wall api",
@@ -163,8 +163,8 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ],
-   "name": "Cinderella",
-   "repository": "https://github.com/Sur-vivor/CiderellaProBot",
-   "success_url": "https://telegram.dog/CinderellaProBot",
-   "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
+   "name": "jacksparrow",
+   "repository": "https://github.com/Deepak15011/jacksparrow",
+   "success_url": "https://telegram.dog/jacksparrwwbot",
+   "logo": "https://telegra.ph/file/51f6431dd1530bd7e90c0.jpg"
 }
